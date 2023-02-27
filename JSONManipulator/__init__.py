@@ -3,7 +3,7 @@
 """
 NAME
     JSONManipulator.
-#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 DESCRIPTION
     A Python library to manipulate objects in JSON files.
 
